@@ -1,0 +1,70 @@
+Name: Creative Crypto Chat, Type: Channel, ID: -1001286090902
+Name: VIRTUALIX VIP 🔮, Type: Channel, ID: -1002232016893
+Name: VIRTUALIX 🛰️, Type: Channel, ID: -1002207486908
+Name: CryptoInvestCold, Type: Channel, ID: -1002118843001
+Name: 4AM Pumpfun Volume Signal, Type: Channel, ID: -1002279143316
+Name: FRENS GEMS 💎, Type: Channel, ID: -1001975392115
+Name: Stealth Launches Degen Crypto GAMBLES, Type: Channel, ID: -1001622930787
+
+Name: Thx Insider Dectory, Type: Channel, ID: -1002499556840
+Name: Thx Alphasnipes Gambles, Type: Channel, ID: -1002135685994
+Name: VICE.SOL | BOT, Type: Channel, ID: -1002182373663
+Name: Yoda Calls, Type: Channel, ID: -1002103973228
+
+
+
+------------------------------------------------------------------------------
+
+users:
+
+Username: sircallalot, User ID: 8178319108
+Username: MT_Ackermann, User ID: 1209815510
+Username: Lexaura, User ID: 5433949931
+Username: sankyss8, User ID: 1504405309
+Username: TrilhaCrypto, User ID: 7235447815
+Username: CryptoJoker23, User ID: 2059184760
+Username: semitone91, User ID: 6542909334
+
+
+
+{
+    "api_id": 28296714,
+    "api_hash": "bce13553eac05ecd25d31157c0cb19d8",
+    "phone": "+995591990035",
+    "post_channel_ids": [
+        2449351682
+    ],
+    "channels": {
+        "1286090902": {
+            "track_users": [8178319108, 1209815510, 5433949931, 1504405309,7235447815, 2059184760, 6542909334]
+        },
+        "2232016893": {
+            "track_users": []
+        },
+        "2207486908": {
+            "track_users": []
+        },
+        "2118843001": {
+            "track_users": []
+        },
+        "2279143316": {
+            "track_users": []
+        },
+        "1975392115": {
+            "track_users": []
+        },
+        "1622930787": {
+            "track_users": []
+        },
+        "2634924429":{
+            "track_users": [1251668756]
+        }
+    },
+    "database": {
+        "username": "Mamiko",
+        "password": "129wqoislaj",
+        "host": "109.123.255.144",
+        "port": 3306,
+        "name": "MamikoDB"
+    }
+}
